@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniyal Zafar</h1>
-<h3 align="center">A passionate Learner & MERN Stack developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Daniyal Zafar Malik</h1>
+<h3 align="center">A passionate Learner & Node.js backend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-zy&label=Profile%20views&color=0e75b6&style=flat" alt="dan-zy" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **malikdaniyalzafar@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGGQcVm0aY/I2_lXSe2FCLYmvwBv0J8Jw/edit?utm_content=DAGGQcVm0aY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGGQcVm0aY/I2_lXSe2FCLYmvwBv0J8Jw/edit?utm_content=DAGGQcVm0aY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://www.canva.com/design/DAGspmZh9hY/CDWj69gPyhuK6iyEsjysxA/edit?utm_content=DAGspmZh9hY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
