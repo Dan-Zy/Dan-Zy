@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **malikdaniyalzafar@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGspmZh9hY/CDWj69gPyhuK6iyEsjysxA/edit?utm_content=DAGspmZh9hY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences https://www.canva.com/design/DAGspmZh9hY/CDWj69gPyhuK6iyEsjysxA/edit?utm_content=DAGspmZh9hY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
