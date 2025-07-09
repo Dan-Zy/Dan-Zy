@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB, MySQL and Postman**
 
-- 📫 How to reach me **201400044@gift.edu.pk**
+- 📫 How to reach me **malikdaniyalzafar@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGGQcVm0aY/I2_lXSe2FCLYmvwBv0J8Jw/edit?utm_content=DAGGQcVm0aY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGGQcVm0aY/I2_lXSe2FCLYmvwBv0J8Jw/edit?utm_content=DAGGQcVm0aY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
