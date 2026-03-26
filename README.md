@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Daniyal Zafar Malik</h1>
-<h3 align="center">A passionate Learner & Node.js backend developer from Pakistan</h3>
+<h3 align="center">Learner, Thinker & Backend Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-zy&label=Profile%20views&color=0e75b6&style=flat" alt="dan-zy" /> </p>
 
-- 🔭 I’m currently working on **a web based ecommerce app**
+- 🔭 I’m currently working on **starting my own Web Agency**
 
-- 🌱 I’m currently learning **NextJS, Three.JS, SQL and Python**
+- 🌱 I’m currently learning **about Sales and Marketing**
 
 - 👯 I’m looking to collaborate on **web solution with integration of AI/ML**
 
